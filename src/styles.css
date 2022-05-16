@@ -1,0 +1,101 @@
+.navbar.navbar-light.navbar-expand-md.navigation-clean {
+  background-color: #3634D6;
+  align-items: center;
+}
+
+.full{
+  height: 100vh;
+  width: 100vw;
+  max-width: 100%;
+}
+body {
+  overflow-x: hidden;
+  width: calc(100vw - (100vw - 100%));
+}
+#profileTableId {
+  height: 100vh;
+  width: 100vw;
+  max-width: 100%;
+}
+.nav-item {
+  align-content: center;
+  align-self: center;
+  color: #FFFFFF !important;
+}
+.nav.navbar-nav.ml-auto {
+  align-items: center;
+}
+
+#PatientList {
+  color: #FFFFFF;
+  margin-right: 20vw;
+}
+#myProfileNav {
+  alignment: right;
+  float: right;
+}
+
+#placeholderId {
+  margin-left: 32px;
+  margin-top: 32px;
+  width: 180px;
+  height: 180px;
+}
+#addPatientButton {
+  margin-top: 16px;
+  margin-left: 32px;
+  min-width: unset;
+  padding-right: 24px;
+  padding-left: 24px;
+}
+
+#tdStyle {
+  min-width: unset;
+  max-width: 100px;
+}
+
+#loginButton{
+  width: available;
+  background-color: #3634dd;
+}
+#nameProfileId {
+  width: 30vw;
+}
+#profileInfoId {
+  width: 70vw;
+}
+#nameId {
+  margin-left: 32px;
+  margin-top: 16px;font-size: 22px;
+}
+#doctorEditButtonId {
+margin-top: 16px;
+  margin-left: 32px;
+  padding-right: 24px;
+  padding-left: 24px;
+  width: 180px;
+}
+
+.inputButtons {
+  border-color: #000000;
+  border-radius: 15px;
+  width: 45vw;
+  align-self: center;
+  alignment: center;
+  text-align: center;
+}
+.nav-link.li {
+  margin-right: 32px;
+  color: #FFFFFF !important;
+}
+#featuresTable {
+  margin-top: 64px;
+}
+#tabFirst{
+  border-color: #3634D6;
+  background-color: #3634D6 !important;
+  color:#000000 !important;
+}
+/*.nav-link {*/
+/*  color: #3634D6 !important;*/
+/*}*/
